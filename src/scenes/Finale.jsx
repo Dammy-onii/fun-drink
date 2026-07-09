@@ -108,7 +108,7 @@ export default function Finale({ choice, secrets }) {
       </motion.p>
 
       <p className="font-doodle z-10 mt-12 text-sm text-cream/40">
-        brewed with suspicious care by <span className="text-bubble">SilentGeek</span> · GLORP &amp; CO. is
+        brewed with suspicious care by <span className="text-bubble">mrolagoke</span> · GLORP &amp; CO. is
         not a real company. Glorp, however, is very real to us.
       </p>
     </div>
